@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm realMorrisLiu
-Everyone
+🙌Everyone
 
-know Wayland
+👐know Wayland
 
-better than 
+👌better than 
 
-me!
+☝️me!
 
 🌱 I’m currently learning Wayland
 
