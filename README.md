@@ -7,7 +7,7 @@
 
 ☝️ me!
 
-🌱 I’m currently learning Wayland and Rust!
+🌱 I’m currently learning Ruby!
 
 <!--
 **realMorrisLiu/realMorrisLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
