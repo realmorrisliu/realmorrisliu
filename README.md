@@ -1,13 +1,6 @@
 ### Hi there 👋, I'm realMorrisLiu
-🙌 Everybody
 
-👐 know Wayland
-
-👌 better than 
-
-☝️ me!
-
-🌱 I’m currently learning Ruby!
+🌱 I’m currently learning Rust and AI!
 
 <!--
 **realMorrisLiu/realMorrisLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
