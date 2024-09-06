@@ -1,4 +1,4 @@
-### Hi there 👋, I'm realMorrisLiu
+### Hi there 👋, I'm mliu
 
 🌱 I’m currently learning Rust and AI!
 
