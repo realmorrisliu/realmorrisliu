@@ -3,7 +3,7 @@
 Welcome to my GitHub!  
 I spend my days wrangling Rust types, writing React components that don’t break (often), and occasionally telling Go and Python to behave.
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
 - 🦀 Rust is my main thing — type safety is my love language
 - ⚛️ React for frontend magic, Tauri for desktop sauce
@@ -32,4 +32,4 @@ I spend my days wrangling Rust types, writing React components that don’t brea
 
 > _“Code like it matters. Because it does.”_
 
-![image](https://github.com/user-attachments/assets/d08a3717-35c4-48a9-ad45-201d6038bc25)
+![image](https://github.com/user-attachments/assets/aafb92de-9c63-4f30-9116-79e9f98963fb)
