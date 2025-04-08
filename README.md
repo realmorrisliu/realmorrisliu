@@ -20,7 +20,7 @@ I spend my days wrangling Rust types, writing React components that don’t brea
 
 ## 🎸 Fun facts
 
-- 🎶 Music fuels my flow — funk & fusion especially
+- 🎶 Music fuels my flow — jazz for the soul, funk for the groove, and rock for the fire.
 - 🎸 Currently playing bass and loving it
 
 ## 📫 Reach Me
