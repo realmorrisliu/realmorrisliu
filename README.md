@@ -27,6 +27,7 @@ I spend my days wrangling Rust types, writing React components that don’t brea
 
 - GitHub: [@realmorrisliu](https://github.com/realmorrisliu)
 - X / Twitter: [@realmorrisliu](https://x.com/realmorrisliu)
+- Email: morrisliu1994@outlook.com
 
 ---
 
