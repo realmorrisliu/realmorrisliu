@@ -1,18 +1,35 @@
-### Hi there 👋, I'm mliu
+# 👋 Hi, I'm Morris (a.k.a. realmorrisliu)
 
-🌱 I’m currently learning Rust and AI!
+Welcome to my GitHub!  
+I spend my days wrangling Rust types, writing React components that don’t break (often), and occasionally telling Go and Python to behave.
 
-<!--
-**realMorrisLiu/realMorrisLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
 
-Here are some ideas to get you started:
+- 🦀 Rust is my main thing — type safety is my love language
+- ⚛️ React for frontend magic, Tauri for desktop sauce
+- 🛠️ Go & Python when the job needs to get done fast
+- 📦 Currently working on: [openrouter-rs](https://github.com/realmorrisliu/openrouter-rs)  
+  A type-safe SDK for [OpenRouter.ai](https://openrouter.ai) — because LLM APIs shouldn't feel like guessing games
+- 🧠 Also building: **Cerbo** — an AI-powered second brain  
+  _Catch thoughts before they fade._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Toolbox
+
+`Rust` • `TypeScript` • `React` • `Go` • `Python`  
+`Axum` • `Tauri` • `TailwindCSS` • `Docker` • `Kubernetes` • `Postgres` • `Redis`
+
+## 🎸 Fun facts
+
+- 🎶 Music fuels my flow — funk & fusion especially
+- 🎸 Currently playing bass and loving it
+
+## 📫 Reach Me
+
+- GitHub: [@realmorrisliu](https://github.com/realmorrisliu)
+- X / Twitter: [@realmorrisliu](https://x.com/realmorrisliu)
+
+---
+
+> _“Code like it matters. Because it does.”_
+
+![image](https://github.com/user-attachments/assets/d08a3717-35c4-48a9-ad45-201d6038bc25)
