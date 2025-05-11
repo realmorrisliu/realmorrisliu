@@ -31,6 +31,6 @@ I spend my days wrangling Rust types, writing React components that don’t brea
 
 ---
 
-> _“Code like it matters. Because it does.”_
+> _“I just wondered how things were put together.”_
 
 ![image](https://github.com/user-attachments/assets/aafb92de-9c63-4f30-9116-79e9f98963fb)
