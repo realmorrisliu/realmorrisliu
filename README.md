@@ -10,7 +10,7 @@ I spend my days wrangling Rust types, writing React components that don’t brea
 - 🛠️ Go & Python when the job needs to get done fast
 - 📦 Currently working on: [openrouter-rs](https://github.com/realmorrisliu/openrouter-rs)  
   A type-safe SDK for [OpenRouter.ai](https://openrouter.ai) — because LLM APIs shouldn't feel like guessing games
-- 🧠 Also building: **Cerbo** — an AI-powered second brain  
+- 🎇 Also building: **Kira** — an AI-powered second brain  
   _Catch thoughts before they fade._
 
 ## 🧰 Tech Toolbox
