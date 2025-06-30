@@ -10,6 +10,8 @@ I spend my days wrangling Rust types, writing React components that don’t brea
 - 🛠️ Go & Python when the job needs to get done fast
 - 📦 Currently working on: [openrouter-rs](https://github.com/realmorrisliu/openrouter-rs)  
   A type-safe SDK for [OpenRouter.ai](https://openrouter.ai) — because LLM APIs shouldn't feel like guessing games
+- 🦭 And [sealbox](https://github.com/realmorrisliu/sealbox)
+  A Simple Secret Storage Service – self-hosted and developer-friendly.
 - 🎇 Also building: **Kira** — an AI-powered second brain  
   _Catch thoughts before they fade._
 
